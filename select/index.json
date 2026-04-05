@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "おとなの掟",
+  "base_artist": "Doughnuts Hole",
+  "createdAt": "2026-04-05T01:37:41.166848Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おとなの掟",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_おとなの掟_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おとなの掟",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/02_おとなの掟_椎名林檎.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おとなの掟",
+      "artist": "Doughnuts Hole",
+      "has_synced": true,
+      "path": "select/03_おとなの掟_Doughnuts_Hole.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "おとなの掟 〜Adult Code〜 (object blue Pleasure Principle Remix)",
+      "artist": "椎名林檎, object blue",
+      "has_synced": true,
+      "path": "select/04_おとなの掟_〜Adult_Code〜_(object_blue_Pleasure_Principle_Remix)_椎名林檎,_object_blue.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "おとなの掟",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/05_おとなの掟_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "おとなの掟",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/06_おとなの掟_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "おとなの掟",
+      "artist": "Doughnuts Hole",
+      "has_synced": true,
+      "path": "select/07_おとなの掟_Doughnuts_Hole.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "おとなの掟",
+      "artist": "松　たか子",
+      "has_synced": true,
+      "path": "select/08_おとなの掟_松_たか子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "おとなの掟 / Maki Maki",
+      "artist": "松　たか子",
+      "has_synced": true,
+      "path": "select/09_おとなの掟___Maki_Maki_松_たか子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "おとなの掟 - The Adult Code",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/10_おとなの掟_-_The_Adult_Code_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "おとなの掟 〜Adult Code〜 (object blue Pleasure Principle Remix)",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/11_おとなの掟_〜Adult_Code〜_(object_blue_Pleasure_Principle_Remix)_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "おとなの掟 (カラオケ)",
+      "artist": "Doughnuts Hole",
+      "has_synced": true,
+      "path": "select/12_おとなの掟_(カラオケ)_Doughnuts_Hole.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "おとなの掟",
+      "artist": "松たか子",
+      "has_synced": true,
+      "path": "select/13_おとなの掟_松たか子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おとなの掟",
+      "artist": "Doughnuts Hole",
+      "has_synced": false,
+      "path": "select/pl_01_おとなの掟_Doughnuts_Hole.txt"
+    }
+  ]
+}
